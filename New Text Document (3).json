@@ -1,33 +1,33 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "phone": "1-770-736-8031",
-    "website": "hildegard.org",
+    "name": " Shahadat Hosen Emon",
+    "username": "shaduvai.01",
+    "email": "shahadathsoen833@gmail.com",
+    "phone": "+8801612448380",
+    "website": "shaduvai.01",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
+      "street": "duttapara",
+      "suite": "utopia",
+      "city": "daffodil smart city",
+      "zipcode": "sabur khan",
       "geo": {
         "lat": "-37.3159",
         "lng": "81.1496"
       }
     },
     "company": {
-      "name": "Romaguera-Crona",
+      "name": "daffodil",
       "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
+      "bs": "ajaira"
     }
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "phone": "010-692-6593",
+    "name": "amr vut/jin",
+    "username": "vut.jin01",
+    "email": "vut@jin.com",
+    "phone": "0193749374",
     "website": "anastasia.net",
     "address": {
       "street": "Victor Plains",
@@ -47,11 +47,11 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
-    "email": "Nathan@yesenia.net",
-    "phone": "1-463-123-4447",
-    "website": "ramiro.info",
+    "name": "amr friend ",
+    "username": "shadus.friend",
+    "email": "beiman@company.net",
+    "phone": "9384234",
+    "website": "beiman.info",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
@@ -69,3 +69,4 @@
     }
   }
 ]
+
